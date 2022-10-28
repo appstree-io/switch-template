@@ -1,6 +1,6 @@
 # switch-template
 
-https://suavis-technologies.github.io/switch-template/
+[CHECK OUT DEMO](https://appstree-io.github.io/switch-template/#)
 
 ##  **Desktop** **View**
 
